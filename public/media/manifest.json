@@ -1,0 +1,94 @@
+﻿{
+  "project": "AURA AI — Real-Time Visual Intelligence",
+  "generatedAt": "2026-10-19T16:58:00Z",
+  "assets": [
+    {
+      "file": "public/media/video/hero-eye.mp4",
+      "poster": "public/media/posters/hero-eye-poster.jpg",
+      "type": "video/mp4",
+      "resolution": "1280x720",
+      "title": "Macro Eye Focus Pull",
+      "source": "Mixkit",
+      "license": "Mixkit Free Commercial License",
+      "usage": "Hero Stage Card background layer blended with Three.js point cloud"
+    },
+    {
+      "file": "public/media/video/gesture-hands.mp4",
+      "poster": "public/media/posters/gesture-hands-poster.jpg",
+      "type": "video/mp4",
+      "resolution": "1280x720",
+      "title": "Fluid Hand Gestures Silhouette",
+      "source": "Mixkit",
+      "license": "Mixkit Free Commercial License",
+      "usage": "Gesture Interaction section demonstrating spatial kinematic hand recognition"
+    },
+    {
+      "file": "public/media/video/perception-iris.mp4",
+      "poster": "public/media/posters/perception-iris-poster.jpg",
+      "type": "video/mp4",
+      "resolution": "1280x720",
+      "title": "Human Iris Pupillary Saccades",
+      "source": "Mixkit",
+      "license": "Mixkit Free Commercial License",
+      "usage": "Human Perception section paired with live FACS action units telemetry"
+    },
+    {
+      "file": "public/media/video/neural-chip.mp4",
+      "poster": "public/media/posters/neural-chip-poster.jpg",
+      "type": "video/mp4",
+      "resolution": "1280x720",
+      "title": "Silicon Circuit Processor Signals",
+      "source": "Mixkit",
+      "license": "Mixkit Free Commercial License",
+      "usage": "Technology Showcase panel demonstrating on-device client execution"
+    },
+    {
+      "file": "public/media/images/portrait-perception.jpg",
+      "type": "image/jpeg",
+      "title": "Cinematic Human Portrait",
+      "source": "Unsplash",
+      "license": "Unsplash License (Free commercial & personal use)",
+      "usage": "Human Perception split showcase with interactive lens inspection"
+    },
+    {
+      "file": "public/media/images/macro-iris.jpg",
+      "type": "image/jpeg",
+      "title": "Macro Human Eye Iris",
+      "source": "Unsplash",
+      "license": "Unsplash License (Free commercial & personal use)",
+      "usage": "Biometric Geometry showcase and texture layering"
+    },
+    {
+      "file": "public/media/images/hands-interaction.jpg",
+      "type": "image/jpeg",
+      "title": "Studio Hand Gesture Articulation",
+      "source": "Unsplash",
+      "license": "Unsplash License (Free commercial & personal use)",
+      "usage": "Gesture Interaction showcase card"
+    },
+    {
+      "file": "public/media/images/camera-optic.jpg",
+      "type": "image/jpeg",
+      "title": "Precision Optical Camera Lens Elements",
+      "source": "Unsplash",
+      "license": "Unsplash License (Free commercial & personal use)",
+      "usage": "Technology Showcase wide optic media panel"
+    },
+    {
+      "file": "public/media/images/privacy-edge.jpg",
+      "type": "image/jpeg",
+      "title": "Monochrome Silicon Wafer Architecture",
+      "source": "Unsplash",
+      "license": "Unsplash License (Free commercial & personal use)",
+      "usage": "Privacy by Architecture section"
+    },
+    {
+      "file": "public/media/images/closing-portrait.jpg",
+      "type": "image/jpeg",
+      "title": "Cinematic Direct Gaze Portrait",
+      "source": "Unsplash",
+      "license": "Unsplash License (Free commercial & personal use)",
+      "usage": "Closing Scene transition into Launch Studio"
+    }
+  ]
+}
